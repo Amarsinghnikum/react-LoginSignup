@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LoginSignup",
+    "slug": "LoginSignup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LoginSignup"
+}
